@@ -1,0 +1,1 @@
+/home/fra/coding/competitive-programming/handson2_2/target/debug/handson2_2: /home/fra/coding/competitive-programming/handson2_2/src/lib.rs /home/fra/coding/competitive-programming/handson2_2/src/main.rs
